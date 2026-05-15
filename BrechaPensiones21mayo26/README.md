@@ -108,17 +108,35 @@ Nota: la brecha de genero se calcula no por el cobro de los/las pensionistas ind
 
 [Excel con detalles](ResumenAbril2026.xlsx)
 
+##### Pensiones contributivas de Viudedad, ¿por qué son controvertidas?
+
+Porque 
+
+1. es de los pocos casos de prestaciones publicas que "origina" una persona y disfruta otra
+
+2. se crearon para evitar que el cónyuge superviviente (especialmente la mujer) quedara sin recursos, en una **época donde el modelo de familia de 1 proveedor era el dominante** la pensión de viudedad se consolida en 1967, cambiando con el tiempo a incorporar nuevas familias: de hecho, hombres)
+
+3. La **brecha de genero esta invertida -50,54% en abril 2026, pero la cobra un 90,7% de mujeres**
+
+Es decir, es un poco un **fósil del pasado**, la pensión de viudedad se consolida en **1967**, y solo ha cambiado con el tiempo para incorporar: 
+
+* familias de hecho, 
+
+* hombres viudos y
+
+* divorciados / separados
+
+Pero lo mas controvertido es que **puede entrar en contradicción con la nuevas medidas de "rellenar" lagunas en las épocas de cuidados**, porque detrae recursos, que se podrían dedicar a estas nuevas medidas con mas intensidad.
+
+Problema: **para el 30% de las 4,705.734 mujeres pensionistas (contributivas) la pensión de viudedad es la principal** ( = 1,408.422 mujeres)
+
 ##### Brecha de género - Pensiones NO contributivas
 
-Segun los ultimos datos de abril 2026
-
-https://imserso.es/documents/20123/11215244/infabr2026.pdf/447e226b-1a2c-f9db-bc7a-70846941a175
-
-"El beneficiario tipo de una pensión no contributiva de jubilación se corresponde con una mujer con una edad comprendida entre los 70 y los 74 años, cuyo estado civil es el de casada." ( extraído del informe)
+Según los [últimos datos de abril 2026](https://imserso.es/documents/20123/11215244/infabr2026.pdf/447e226b-1a2c-f9db-bc7a-70846941a175), "el beneficiario tipo de una pensión no contributiva de jubilación se corresponde con una mujer con una edad comprendida entre los 70 y los 74 años, cuyo estado civil es el de casada." ( extraído del informe)
 
 En datos : de las 305 mil  nominas de pensiones NO contributivas de jubilación de abril 2026 el **71,3% corresponde a mujeres**
 
-No he encontrado en el informe mensual de gestión datos desagregados por sexo de cuantías, lo cual es significativo 
+No hemos encontrado en el informe mensual de gestión datos desagregados por sexo de cuantías, lo cual es significativo, pero con los últimos datos de **Abril de 2026 en Madrid una pensión media NO contributiva de Jubilación supone 624,44 euros**
 
 ##### Causas de la Brecha de Genero en pensiones
 
@@ -141,7 +159,7 @@ La [reforma de las pensiones 2023](https://www.iberley.es/temas/reforma-las-pen
     
     - Cambios específicos en la integración de lagunas aplicable a partir de 2026, mientras la **brecha de género de las pensiones de jubilación sea superior al 5 %.** Ver [Resumen de los Instrumentos principales para “corregir” las lagunas por cuidados](SPPEcompletarLagunas2026.pdf)
   
-  - **Financiación:** Establece que la financiación del complemento se realiza mediante **transferencia del Estado**al presupuesto de la Seguridad Social
+  - **Financiación:** Establece que la financiación del complemento se realiza mediante **transferencia del Estado** al presupuesto de la Seguridad Social
 
 Articulo más genérico sobre [Cambios que entraran en vigor el año 2026 sobre la pensión de jubilación - Iberley](https://www.iberley.es/revista/cambios-que-entraran-vigor-ano-2026-pension-jubilacion-395)
 
@@ -168,7 +186,7 @@ Articulo más genérico sobre [Cambios que entraran en vigor el año 2026 sobre 
 
 * Menor **ahorro previsional** en mujeres ¿falta de cultura financiera en mujeres, otra brecha? 
 
-### ---
+---
 
 ## **Próximos temas**
 
@@ -185,5 +203,3 @@ Articulo más genérico sobre [Cambios que entraran en vigor el año 2026 sobre 
 ---
 
 ## ¿Quieres incorporarte al equipo dinamizador
-
---- (no esta claro el impacto en brecha de genero)
