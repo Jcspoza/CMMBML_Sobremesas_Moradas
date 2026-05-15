@@ -114,7 +114,7 @@ Porque
 
 1. es de los pocos casos de prestaciones publicas que "origina" una persona y disfruta otra
 
-2. se crearon para evitar que el cónyuge superviviente (especialmente la mujer) quedara sin recursos, en una **época donde el modelo de familia de 1 proveedor era el dominante** la pensión de viudedad se consolida en 1967, cambiando con el tiempo a incorporar nuevas familias: de hecho, hombres)
+2. se crearon para evitar que el cónyuge superviviente (especialmente la mujer) quedara sin recursos, en una **época donde el modelo de familia de 1 proveedor era el dominante**
 
 3. La **brecha de genero esta invertida -50,54% en abril 2026, pero la cobra un 90,7% de mujeres**
 
