@@ -26,7 +26,7 @@ En este tema hay que **distinguir entre legalidad y justicia** (= equidad social
 
 1. **Cada pensión individual es legal**: su cuantía está de acuerdo a las leyes y regulaciones aplicables en su momento 
 
-2. Lo que se discute es **el hecho colectivo de si la diferencia de cuantías entre hombres y mujeres, es justa socialmente.**
+2. Lo que se discute es **el hecho <u>colectivo</u> de si la diferencia de cuantías entre hombres y mujeres, es justa socialmente.**
 
 <u>Hecho</u> : el **52,8% del conjunto de las pensiones contributivas corresponde a mujeres,** sin embargo las cuantías (y otros aspectos) muestran una clara desigualdad , respecto a las pensiones de los hombres: son un **30,6% inferiores a las de los hombres** en el conjunto de pensiones contributivas
 
@@ -42,7 +42,7 @@ Para facilitar el debate posterior, hemos pensado en que **rellenes mientras tom
 
 [Formulario on line](https://forms.gle/wmBb2TGgbbYmU9rc8)
 
-[Formulario papel](cuestionarioBGPv1.pdf)
+[Formulario papel](cuestionarioBGPv1.pdf) ==> COPIA EN PAPEL
 
 --
 
@@ -50,9 +50,11 @@ Para facilitar el debate posterior, hemos pensado en que **rellenes mientras tom
 
 ### 0- Informes de interes y otros enlaces con información
 
-[Informe de analisis de Brecha de Genero del IM - 2025 - 246 pags](analisis_brecha_genero_pensiones_246p.pdf)
+[Informe de analisis de Brecha de Genero del Instituto de la Mujer - 2025 - 246 pags](analisis_brecha_genero_pensiones_246p.pdf)
 
-[Observatorio Social de las Personas Mayores 2024](https://pensionistas.ccoo.es/172240038f90ea7e2f933267a1bae2d7000059.pdf)
+[Observatorio Social de las Personas Mayores 2024- fuente CCOO](https://pensionistas.ccoo.es/172240038f90ea7e2f933267a1bae2d7000059.pdf)
+
+[Coste de oportunidad de la brecha de género en pensiones y ahorro previsional- fuente Mapfre Informe 18 | Septiembre 2025](https://closingap.com/wp-content/uploads/2023/11/cg-informe-mapfre-esp-vf.pdf)
 
 ### 1- El Sistema de Pensiones Publicas en España - informacion general y brecha de genero
 
@@ -98,21 +100,33 @@ Adicionalmente hay **cerca de 0,5 millones de pensiones no contributivas**
 
 [Excel con detalles](ResumenAbril2026.xlsx)
 
-##### Brecha de genero
+##### Brecha de género - pensiones contributivas
 
 Nota: la brecha de genero se calcula no por el cobro de los/las pensionistas individuales,que pueden acumular varias pensiones, sino por cada pensión cobrada
 
-[Infografía datos pensiones contributivas, brecha de genero en el SPPE - abril 2026](infografia_datosContributivasAbril26.png)
+[Infografía datos pensiones contributivas, brecha de genero en el SPPE - abril 2026](infografia_datosContributivasAbril26.png) ==> COPIA EN PAPEL
 
 [Excel con detalles](ResumenAbril2026.xlsx)
 
+##### Brecha de género - Pensiones NO contributivas
+
+Segun los ultimos datos de abril 2026
+
+https://imserso.es/documents/20123/11215244/infabr2026.pdf/447e226b-1a2c-f9db-bc7a-70846941a175
+
+"El beneficiario tipo de una pensión no contributiva de jubilación se corresponde con una mujer con una edad comprendida entre los 70 y los 74 años, cuyo estado civil es el de casada." ( extraído del informe)
+
+En datos : de las 305 mil  nominas de pensiones NO contributivas de jubilación de abril 2026 el **71,3% corresponde a mujeres**
+
+No he encontrado en el informe mensual de gestión datos desagregados por sexo de cuantías, lo cual es significativo 
+
 ##### Causas de la Brecha de Genero en pensiones
 
-[Infografía de causas](infografia_causasBGP.png)
+[Infografía de causas](infografia_causasBGP.png) ==> <u>COPIA EN PAPEL</u>
 
-##### 2026 cambios en legislación : 25 -> 29 años + complemento  brecha de genero + integración de lagunas por cuidados
+##### Cambios legislativos en 2026 : 25 -> 29 años + complemento  brecha de genero + integración de lagunas por cuidados
 
-La [reforma de las pensiones 2023](https://www.iberley.es/temas/reforma-las-pensiones-2023-67435) (RDL 2/2023) introduce 2 cambios significativos que han entrado en vigor en 2026 , junto al complemento de brecha de generoi
+La [reforma de las pensiones 2023](https://www.iberley.es/temas/reforma-las-pensiones-2023-67435) (RDL 2/2023) introduce 2 cambios significativos que han entrado en vigor en 2026 , junto al complemento de brecha de genero
 
 * Nueva forma de determinar la base reguladora de jubilación (D.T. 40.ª [LGSS)](https://www.iberley.es/legislacion/rdleg-8-2015-30-oct-tr-ley-general-seguridad-social-lgss-23990341) que permite optar entre los **últimos 25 años cotizados o 29 años excluyendo los 2 años** (24 meses) de peores cotizaciones (**no esta claro el impacto que pueda tener en brecha de genero**)
 
@@ -122,20 +136,20 @@ La [reforma de las pensiones 2023](https://www.iberley.es/temas/reforma-las-pen
   
   * **Vigencia del Complemento:** El **complemento por brecha de género** se mantendrá vigente mientras la diferencia entre la pensión media contributiva de jubilación de las mujeres y la de los hombres sea **superior al 5%**.
     
-    * --> Esta **pendiente una reforma de este complemento**debido a la sentencia de mayo 2025 del TJUE del 15 de mayo de 2025 declaró discriminatorio el artículo 60.1 de la LGSS, mas info en [El complemento de brecha de género: Abogacía Española](https://www.abogacia.es/publicaciones/blogs/blog-de-derecho-de-los-los-consumidores/el-complemento-de-brecha-de-genero-distinto-nombre-misma-discriminacion/)
+    * --> Esta **pendiente una reforma de este complemento** debido a la sentencia de mayo 2025 del TJUE del 15 de mayo de 2025 declaró discriminatorio el artículo 60.1 de la LGSS, mas info en [El complemento de brecha de género: Abogacía Española](https://www.abogacia.es/publicaciones/blogs/blog-de-derecho-de-los-los-consumidores/el-complemento-de-brecha-de-genero-distinto-nombre-misma-discriminacion/)
   - **Acciones Positiva:** La norma permite la adopción de medidas de acción positiva con carácter temporal, en el marco del diálogo social, para corregir esta disparidad.
     
     - Cambios específicos en la integración de lagunas aplicable a partir de 2026, mientras la **brecha de género de las pensiones de jubilación sea superior al 5 %.** Ver [Resumen de los Instrumentos principales para “corregir” las lagunas por cuidados](SPPEcompletarLagunas2026.pdf)
   
   - **Financiación:** Establece que la financiación del complemento se realiza mediante **transferencia del Estado**al presupuesto de la Seguridad Social
 
-Articulo mas genérico sobre [Cambios que entraran en vigor el año 2026 sobre la pensión de jubilación - Iberley](https://www.iberley.es/revista/cambios-que-entraran-vigor-ano-2026-pension-jubilacion-395)
+Articulo más genérico sobre [Cambios que entraran en vigor el año 2026 sobre la pensión de jubilación - Iberley](https://www.iberley.es/revista/cambios-que-entraran-vigor-ano-2026-pension-jubilacion-395)
 
 ---
 
 ## Charla en común:  ¿Crees que la brecha en pensiones es justa desde un punto de vista social? - 45 minutos
 
-### Preguntas concretas
+### Preguntas concretas sugeridas
 
 * Pensiones de **viudedad**: ¿ son justas socialmente hablando?
 
