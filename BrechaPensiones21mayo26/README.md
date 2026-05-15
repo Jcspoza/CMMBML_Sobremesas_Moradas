@@ -104,7 +104,7 @@ Adicionalmente hay **cerca de 0,5 millones de pensiones no contributivas**
 
 Nota: la brecha de genero se calcula no por el cobro de los/las pensionistas individuales,que pueden acumular varias pensiones, sino por cada pensión cobrada
 
-[Infografía datos pensiones contributivas, brecha de genero en el SPPE - abril 2026](infografia_datosContributivasAbril26.png) ==> COPIA EN PAPEL
+[Infografía datos pensiones contributivas, brecha de genero en el SPPE - abril 2026](infografia_datosContributivasAbril26v2.png) ==> COPIA EN PAPEL
 
 [Excel con detalles](ResumenAbril2026.xlsx)
 
