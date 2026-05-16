@@ -104,7 +104,7 @@ Adicionalmente hay **cerca de 0,5 millones de pensiones no contributivas**
 
 Nota: la brecha de genero se calcula no por el cobro de los/las pensionistas individuales,que pueden acumular varias pensiones, sino por cada pensión cobrada
 
-[Infografía datos pensiones contributivas, brecha de genero en el SPPE - abril 2026](infografia_datosContributivasAbril26v2.png) ==> COPIA EN PAPEL
+[Infografía datos pensiones contributivas, brecha de genero en el SPPE - abril 2026](datosContributivasAbril2026v3.pdf) ==> COPIA EN PAPEL
 
 [Excel con detalles](ResumenAbril2026.xlsx)
 
@@ -126,7 +126,7 @@ Es decir, es un poco un **fósil del pasado**, la pensión de viudedad se consol
 
 * divorciados / separados
 
-Pero lo mas controvertido es que **puede entrar en contradicción con la nuevas medidas de "rellenar" lagunas en las épocas de cuidados**, porque detrae recursos, que se podrían dedicar a estas nuevas medidas con mas intensidad.
+Pero lo mas controvertido es que **puede entrar en contradicción con la nuevas medidas para luchar contra la brecha, como la de "rellenar" lagunas en las épocas de cuidados**, porque detrae recursos, que se podrían dedicar a estas nuevas medidas con mas intensidad.
 
 Problema: **para el 30% de las 4,705.734 mujeres pensionistas (contributivas) la pensión de viudedad es la principal** ( = 1,408.422 mujeres)
 
@@ -138,9 +138,11 @@ En datos : de las 305 mil  nominas de pensiones NO contributivas de jubilación 
 
 No hemos encontrado en el informe mensual de gestión datos desagregados por sexo de cuantías, lo cual es significativo, pero con los últimos datos de **Abril de 2026 en Madrid una pensión media NO contributiva de Jubilación supone 624,44 euros**
 
-##### Causas de la Brecha de Genero en pensiones
+##### >> <u>Causas de la Brecha de Genero en pensiones</u> <<
 
-[Infografía de causas](infografia_causasBGP.png) ==> <u>COPIA EN PAPEL</u>
+[Infografía de causas](CausasBDGv3.pdf) ==> <u>COPIA EN PAPEL</u>
+
+Nota : [definiciones de Tasa de Actividad , Tasa de empleo y Tasa de paro](DefiniconTactividad_emplo_paro.pdf)
 
 ##### Cambios legislativos en 2026 : 25 -> 29 años + complemento  brecha de genero + integración de lagunas por cuidados
 
