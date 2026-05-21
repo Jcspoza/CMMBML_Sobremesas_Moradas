@@ -48,13 +48,21 @@ Para facilitar el debate posterior, hemos pensado en que **rellenes mientras tom
 
 ## Exposición: ¿Qué es la brecha de genero en pensiones? Algunos datos y origen? - 15 minutos
 
-### 0- Informes de interes y otros enlaces con información
+### 0.1- Informes de interes y otros enlaces con información
 
 [Informe de analisis de Brecha de Genero del Instituto de la Mujer - 2025 - 246 pags](analisis_brecha_genero_pensiones_246p.pdf)
 
 [Observatorio Social de las Personas Mayores 2024- fuente CCOO](https://pensionistas.ccoo.es/172240038f90ea7e2f933267a1bae2d7000059.pdf)
 
 [Coste de oportunidad de la brecha de género en pensiones y ahorro previsional- fuente Mapfre Informe 18 | Septiembre 2025](https://closingap.com/wp-content/uploads/2023/11/cg-informe-mapfre-esp-vf.pdf)
+
+### 0.2 Fuentes de datos
+
+Fuente oficial del Ministerio de Inclusión, SS y Migraciones 
+
+[Seguridad Social: Estadísticas](https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/EST23)
+
+Datos de pensiones en España con gráficos ( usa fuentes oficiales ) : https://www.epdata.es/datos/pensiones-graficos-datos/20/espana/106
 
 ### 1- El Sistema de Pensiones Publicas en España - informacion general y brecha de genero
 
@@ -80,6 +88,16 @@ Las ultimas estimaciones indican que el gasto en pensiones fue del **12.9 % del 
 Respecto a la **sostenibilidad futura**, se ha diseñado un sistema recientemente (abril 2026) llamado **INTegraSS**  para una evolución continua de la factura del sistema SPPE. Esta herramienta indica que la cuantía **ascenderá a un promedio del 14% del PIB en el periodo 2022-2050** Es un valor inferior a otras estimación, incluida la de la OCDE o al AIREF, pero se estima que es de mejor calidad, ya que incluye el impacto de medidas como el MEI o el aumento de cotizaciones máximas tomadas desde 2021.  Este valor es inferior al de países del entorno y se debe 
 
 Ver detalle en [La Seguridad Social modera el impacto del gasto en pensiones al 14% del PIB hasta 2050 tras la alarma por su elevado coste | Economía | EL PAÍS](https://elpais.com/economia/2026-04-09/la-seguridad-social-modera-el-impacto-del-gasto-en-pensiones-al-14-del-pib-hasta-2050-tras-la-alarma-por-su-elevado-coste.html)
+
+##### "Hucha" del SPPE ultimo dato
+
+El Fondo de Reserva de la Seguridad Social ( hucha)  a 31 de marzo de 2026 alcanzo los **15.267 millones de euros**, **el dato más alto en la última década.** Siendo importante, hay que considerar que el **gasto mensual fue en Abril 20226 de 14.336 millones de euros** es decir que **la hucha alcanza para pagar unos 32 días de pensión** con datos de Abril ( sin tener en cuenta las extras) .
+
+Artículos sobre la hucha y su evolución ( abril y febrero 2026)
+
+[Hucha de las pensiones en 2026: ¿es suficiente el fondo?](https://www.ineaf.es/tribuna/hucha-de-las-pensiones/)
+
+https://www.publico.es/economia/hucha-pensiones-revive-multiplica-siete-saldo-cinco-anos-tocar-fondo-rajoy.html
 
 #### Definición y origen de brecha de Genero en pensiones
 
