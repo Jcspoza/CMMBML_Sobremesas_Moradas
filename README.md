@@ -26,17 +26,16 @@ Salvo festividades u periodos no lectivos de los CMMs
 
 ## Charlas próximas
 
-| Cartel - Titulo                                                                         | Temática                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img title="" src="./BrechaPensiones21mayo26/cartelBGP21may26.jpeg" alt="" width="250"> | **21 de mayo de 2026** - Reivindicaciones feministas- **[Brecha en Pensiones- ¿Crees que es justa?](https://github.com/Jcspoza/CMMBML_Sobremesas_Modradas/blob/main/BrechaPensiones21mayo26/README.md) / version FINAL                                        |
-|                                                                                         | **18 de Junio de 2026** - Historia del Feminismo - **El Feminismo en la republica española**- ¿ A qué se debe dar prioridad: luchar contra la desigualdad de genero o a luchar contra las de clase /económicas ? o ¿ es una pregunta trampa? / EN PREPARACION |
+| Cartel - Titulo | Temática                                                                                                                                                                                                                                                  |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                 | **Octubre de 2026** - Historia del Feminismo - **El Feminismo en la republica española**- ¿ A qué se debe dar prioridad: luchar contra la desigualdad de genero o a luchar contra las de clase /económicas ? o ¿ es una pregunta trampa? / EN PREPARACION |
 
 ## Charlas Dadas
 
-| Cartel - Titulo                                                                         | Temática                                                                                                                                                           |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img title="" src="./Lyceum_16abril2026/Cartel_lyceum_16abr26.jpeg" alt="" width="158"> | 16 de abril de 2026 [Historia del Feminismo - Lyceum Club 1926-1939](https://github.com/Jcspoza/CMMBML_Sobremesas_Modradas/blob/main/Lyceum_16abril2026/README.md) |
-|                                                                                         |                                                                                                                                                                    |
+| Cartel - Titulo                                                                         | Temática                                                                                                                                                                                               |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img title="" src="./Lyceum_16abril2026/Cartel_lyceum_16abr26.jpeg" alt="" width="158"> | 16 de abril de 2026 [Historia del Feminismo - Lyceum Club 1926-1939](https://github.com/Jcspoza/CMMBML_Sobremesas_Modradas/blob/main/Lyceum_16abril2026/README.md)                                     |
+| <img title="" src="./BrechaPensiones21mayo26/cartelBGP21may26.jpeg" alt="" width="250"> | **21 de mayo de 2026** - Reivindicaciones feministas- **[Brecha en Pensiones- ¿Crees que es justa?](https://github.com/Jcspoza/CMMBML_Sobremesas_Modradas/blob/main/BrechaPensiones21mayo26/README.md) |
 
 ###### Propuestas de temas
 
